@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Texto1"> ¡Hola</string>
+    <string name="Texto2">Mundo! </string>
+
+    <string name="boton1"> Palabra 1</string>
+    <string name="boton2"> Palabra 2 </string>
+    <string name="boton3"> Borrar </string>
+</resources>
